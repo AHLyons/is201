@@ -1,0 +1,34 @@
+.title {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+  }
+  .position {
+    background-color: rgb(223, 161, 69);
+    border: solid 2px black;
+    position: relative;
+}
+.sabi {
+    background-color: rgb(66, 221, 200);
+    font-family: sans-serif;
+}
+.gitna {
+    text-align: center;
+
+}
+.middle {
+    top: 15px;
+    bottom: 15px;
+    left: 5px;
+    right: 5px;
+    padding-right: 250px;
+}
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+}

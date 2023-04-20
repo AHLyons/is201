@@ -1,0 +1,46 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.b {
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+}
+
+.italic {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.f {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.size {
+  font-size: larger;
+}
+
+.g {
+  font-size: larger;
+  color: #1215e2;
+}
+
+.font {
+  font-family: cursive;
+}
+
+.c {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.cm {
+  font-family: monospace;
+  color: rgb(58, 20, 224);
+}
